@@ -4,7 +4,7 @@
 
 ## 📥 Скачать
 
-[![Скачать](https://img.shields.io/badge/Скачать-Password%20Manager%20-blue)](password_manager_windows.exe)
+[![Скачать](https://img.shields.io/badge/Скачать-Password%20Manager%20-blue)](https://github.com/SenyaGeniy/Password-Manager-Windows/releases/tag/PasswordManager)
 
 ## 🚀 Как пользоваться
 
